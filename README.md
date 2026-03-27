@@ -1,2 +1,1 @@
-# hoai-nam-pc
-Just a project make for fun
+just a project make for fun
